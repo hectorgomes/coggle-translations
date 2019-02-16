@@ -43,37 +43,39 @@
 
 <index-colab-mindmaps """
   <h1>Mapas mentais colaborativos</h1>
-  <p>Coggle e uma ferramenta online para criação e compartilhamento de mapas mentais. Crie online diretamente do seu navegador: Sem downloads ou instalações. <a>Faça log in</a> e começe a criar seus mapas agora!</p>
-  <p>Whether you're taking notes, brainstorming, planning, or doing something awesomely creative, it is super simple to visualise your ideas with Coggle. Share with as many friends or colleagues as you like. Changes you make will show up instantly in their browser, wherever they are in the world.</p>
+  <p>Coggle é uma ferramenta online para criação e compartilhamento de mapas mentais. Crie online diretamente do seu navegador: Sem downloads ou instalações. <a>Faça login</a> e começe a criar seus mapas agora!</p>
+  <p>Se você está fazendo anotações, fazendo brainstorming, planejando ou fazendo algo incrivelmente criativo, é super simples visualizar suas ideias com o Coggle. Compartilhe com quantos amigos ou colegas quiser. As alterações que você fizer aparecerão instantaneamente no navegador, onde quer que estejam no mundo.</p>
 """>
 
 <index-use-notes """
   <div><img></div>
   <h2>Faça anotações</h2>
-  <p>Open up Coggle in a meeting, during your revision or wherever inspiration strikes to create beautiful, structured notes.</p>
+  <p>Abra Coggle em uma reunião, durante a sua revisão ou onde quer que a inspiração aparece para criar belas anotações de forma estruturada.</p>
 """>
     
 <index-use-brainstorm """
   <div><img></div>
   <h2>Brainstorm</h2>
-  <p>Take the start of an idea, water it with Coggle and watch it grow into a fully fledged plan, clearly laid out and ready to share.</p>
+  <p>Começe com uma ideia, regue-a com o Coggle e veja-a crescer em um plano completo, claramente definido e pronto para ser compartilhado.</p>
 """>
 
 <index-use-share """
   <div><img></div>
   <h2>Compartilhe informações</h2>
-  <p>Distill your topic into a Coggle, include all the details and share with your team, your classmates or the world!</p>
+  <p>Desenvolva seu tópico com o Coggle, inclua todos os detalhes e compartilhe com sua equipe, seus colegas ou o mundo!</p>
 """>
     
 <index-use-other """
-  Estes são apenas algumas das coisas que o Coggle e capaz – <a>comece agora</a> e descubra por você mesmo!
+  Estes são apenas algumas das coisas que o Coggle é capaz. <a>Comece agora</a> e descubra por você mesmo!
 """>
 
 <index-helpteam-orgs-usd """
-  <a><img></a>
-  <h2>Help your team communicate with <a>Coggle Organisations</a>.</h2>
-  <p>Give your team a shared space for brainstorming, note-taking and documenting their ideas. Coggle Organisations come with all the features you need to manage control of your data and integrate with your business workflow. Read more <a>here</a>.</p>
-  <a>Sign up now<div>From $8 per member per month</div></a>
+ <a> <img> </a>
+   <h2> Ajude sua equipe a se comunicar com <a> Organizações de alternância </a>. </ h2>
+   <p> Dê à sua equipe um espaço compartilhado para fazer brainstorming, anotações e documentar suas ideias. Coggle Organizations vem com todos os recursos que você precisa para gerenciar o controle de seus dados e se integrar ao fluxo de trabalho da sua empresa. Leia mais <a> aqui </a>.
+
+</ p>
+  <a>Inscreva-se agora<div>A partir de $8 por membro por mês</div></a>
 """>
 
 <features-realtime "Realtime Collaboration">
@@ -95,7 +97,7 @@
 <features-colours "Você é um pensador visual? Você aprende pela disposição e pela cor? Bem, tenha certeza de obter a cor certa para seus tópicos, apenas clique em um ramo para mostrar a roda de cores e selecione a cor desejada.">
 
 <features-notifications-title "Email Notifications">
-<features-notifications "Get an email notification with a summary of changes when collaborators edit diagrams shared with you.">
+<features-notifications "Receba uma notificação por e-mail com um resumo das alterações quando os colaboradores editarem diagramas compartilhados com você.">
 
 <features-chat-title "Comments and Chat">
 <features-chat "Add comments to nodes and chat with collaborators without leaving your diagram workspace.">
@@ -354,11 +356,11 @@
 
 
 <me-communication-title "Communicação">
-<me-emails-title "Email Addresses">
-<me-emails-primary "(primary)">
+<me-emails-title "Endereço de email:">
+<me-emails-primary "(preferencial)">
 <me-emailstip "Nós só vamos enviar e-mail para o seu endereço principal, mas você pode receber convites de qualquer um dos outros.">
 <me-talktome "Fale comigo: ">
-<me-diagram-notifications "Notificaçõe de Diagrama: ">
+<me-diagram-notifications "Notificações de diagrama:">
 
 <slider-yes "SIM">
 <slider-no "NÃO">
@@ -402,13 +404,13 @@
 """>
 
 /* Diagram content */
-<guide-click-here "clique aqui">
+<guide-click-here "Clique aqui">
 <guide-or-here "ou aqui">
-<click-to-edit "click to edit">
-<click-to-edit-title "Click to edit title">
-<tap-to-edit "tap to edit">
-<tap-to-edit-title "Tap to edit title">
-<unnamed-diagram "Unnamed Diagram">
+<click-to-edit "click para editar">
+<click-to-edit-title "Click para editar o título">
+<tap-to-edit "Toque para editar">
+<tap-to-edit-title "Toque para editar o título">
+<unnamed-diagram "Diagrama sem nome">
 
 <add-branch "add branch">
 <copy-branch "copy branch">
